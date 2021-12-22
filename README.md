@@ -21,5 +21,3 @@
 
 ![Snake animation](https://github.com/LuisEEduardo/LuisEEduardo/blob/output/github-contribution-grid-snake.svg)
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
