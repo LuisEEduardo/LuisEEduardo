@@ -1,7 +1,5 @@
 ### Oi! Eu sou o Luis
 
-Here are some ideas to get you started:
-
 - 🔭 Hoje trabalho com back-end
 - 🌱 Eu estou estudando .Net
 
