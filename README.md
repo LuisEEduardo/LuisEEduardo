@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Luis
 
-- Atualmente, sou estagiário em desenvolvimento de software, trabalho com .Net Core, C Sharp, Asp.Net, HTML, CSS, JS, SQL Server, PostgreSQL e Git.
+- Atualmente, sou estagiário em desenvolvimento de software, trabalho com .Net Core, C Sharp, Asp.Net, HTML, CSS, JS, SQL Server, PostgreSQL, Docker e Git.
 - Eu estou estudando para aprimorar meus conhecimentos nessas tecnologias que uso no meu dia a dia.
 
 <div align="center">
