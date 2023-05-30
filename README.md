@@ -1,7 +1,7 @@
-### Oi! Eu sou o Luis
+### Olá! Eu sou o Luis
 
-- Atualmente, sou desenvolvedor de software, trabalho com .Net Core, C Sharp, Asp.Net, SQL Server, Docker e Git, e também possuo conhecimentos em Python e Java.
-- Eu estou estudando para aprimorar meus conhecimentos nessas tecnologias que uso no meu dia a dia.
+- Sou desenvolvedor de software, trabalho com .Net Core, C Sharp, Asp.Net, SQL Server, Git e Azure.
+- Estou aprimorando os meus conhecimentos em AWS, React e .Net Core.
 
 
 
